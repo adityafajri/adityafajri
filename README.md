@@ -1,6 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=adityafajri.adityafajri.visitor-badge&left_color=%2312060Cff&right_color=%23C01C12ff)
-
-# Welcome to My Github Profile 👋
+<h1> Welcome to My Github Profile 👋 </h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=C01C12ff&lines=Hello+There!;+My+Name+is+Aditya+Fajri!;" />
@@ -23,19 +21,23 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/adityafajri/adityafajri/main/assets/gif/Fu%20Hau%20Honkai%20Impact3rd%20GIF%20-%20Fu%20Hau%20Honkai%20Impact3rd%20Honkai%20-%20Discover%20%26%20Share%20GIFs.gif">
 </div><br>
 
-# A Little Detail About Me 💬
-<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/adityafajri/adityafajri/blob/main/assets/gif/tumblr_2296da1bbcd622cd1984d1bf900b6146_72dcfd6d_640.gif">
+<h1>A Little Detail About Me 💬</h1>
+<img hight="300" width="400" alt="GIF" align="right" src="https://github.com/adityafajri/adityafajri/blob/main/assets/gif/tumblr_2296da1bbcd622cd1984d1bf900b6146_72dcfd6d_640.gif">
 
-### I'm currently learning & participating
-- 📈 Data Science Certification Program by Dicoding
-- 🚀 Front-End Developer Proffesional Certification by META
+<h3> I'm currently learning & participating </h3>
+<ul>
+    <li> 📈 Data Science Certification Program by Dicoding </li>
+    <li> 🚀 Front-End Developer Proffesional Certification by META</li>
+</ul>
 
-### 101 Things I Love (Beside Writing Code)
-- 🎮 Playing Honkai Impact 3rd
-- 🎬 Watching K-Dramas & Anime
-- 🎧 Listening to Music
-- 🍽️ Cullinary
-- 📑 Reading some Mangas & Light Novels
+<h3> 101 Things I Love (Beside Writing Code) </h3>
+<ul>
+    <li>🎮 Playing Honkai Impact 3rd</li>
+    <li>🎬 Watching K-Dramas & Anime</li>
+    <li>🎧 Listening to Music</li>
+    <li>🍽️ Cullinary</li>
+    <li>📑 Reading some Mangas & Light Novels</li>
+</ul>
 <br>
 
 <h1 align="center">Tools & Language that I Familiar With 🔨</h1>
