@@ -26,11 +26,11 @@
 # A Little Detail About Me 💬
 <img hight="200" width="300" alt="GIF" align="right" src="https://github.com/adityafajri/adityafajri/blob/main/assets/gif/tumblr_2296da1bbcd622cd1984d1bf900b6146_72dcfd6d_640.gif">
 
-### I'm currently learning & participating :
+### I'm currently learning & participating
 - 📈 Data Science Certification Program by Dicoding
 - 🚀 Front-End Developer Proffesional Certification by META
 
-### 101 Things I Love (Beside Writing Code) : 
+### 101 Things I Love (Beside Writing Code)
 - 🎮 Playing Honkai Impact 3rd
 - 🎬 Watching K-Dramas & Anime
 - 🎧 Listening to Music
