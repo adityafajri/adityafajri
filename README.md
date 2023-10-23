@@ -23,7 +23,7 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/adityafajri/adityafajri/main/assets/gif/Fu%20Hau%20Honkai%20Impact3rd%20GIF%20-%20Fu%20Hau%20Honkai%20Impact3rd%20Honkai%20-%20Discover%20%26%20Share%20GIFs.gif">
 </div><br>
 
-# A Little Detail About Me 💬 :
+# A Little Detail About Me 💬
 <img hight="200" width="300" alt="GIF" align="right" src="https://github.com/adityafajri/adityafajri/blob/main/assets/gif/tumblr_2296da1bbcd622cd1984d1bf900b6146_72dcfd6d_640.gif">
 
 ### I'm currently learning & participating :
@@ -38,7 +38,7 @@
 - 📑 Reading some Mangas & Light Novels
 <br>
 
-<h1 align="center">Tools & Language that I Familiar With</h1>
+<h1 align="center">Tools & Language that I Familiar With 🔨</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
@@ -46,11 +46,11 @@
 </div>
 <br/>
 <div align="center">
-  <h1>My Contributions</h1>
+  <h1>My Contributions 📝</h1>
    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adityafajri/adityafajri/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-<h1 align="center">My Statistics</h1>
+<h1 align="center">My Statistics 📊</h1>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=adityafajri&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
