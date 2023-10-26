@@ -26,7 +26,7 @@
 <h1>A Little Detail About Me 💬</h1>
 <img hight="300" width="400" alt="GIF" align="right" src="https://github.com/adityafajri/adityafajri/blob/main/assets/gif/tumblr_2296da1bbcd622cd1984d1bf900b6146_72dcfd6d_640.gif">
 
-<h3> I'm currently learning & participating </h3>
+<h3>I'm currently learning & participating</h3>
 <ul>
     <li> 📈 Data Science Certification Program by Dicoding </li>
     <li> 🚀 Front-End Developer Proffesional Certification by META</li>
