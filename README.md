@@ -17,8 +17,8 @@
   <a href="https://linkedin.com/in/adityafajri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
 </div>
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/adityafajri/adityafajri/main/assets/gif/Fu%20Hau%20Honkai%20Impact3rd%20GIF%20-%20Fu%20Hau%20Honkai%20Impact3rd%20Honkai%20-%20Discover%20%26%20Share%20GIFs.gif">
 </div><br>
